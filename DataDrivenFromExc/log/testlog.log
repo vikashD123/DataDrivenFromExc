@@ -1,0 +1,20 @@
+2019-02-16 10:58:57,602 - LAb1 -INFO - lauching browser
+2019-02-16 10:59:05,882 - LAb1 -INFO - navigated to blogspot
+2019-02-16 10:59:07,322 - LAb1 -INFO - clicking on button
+2019-02-16 11:54:19,718 - com.gargoylesoftware.htmlunit.DefaultCssErrorHandler -WARN - CSS error: 'https://www.blogger.com/static/v1/widgets/2727757643-css_bundle_v2.css' [1:4148] Error in expression. (Invalid token ".". Was expecting one of: <S>, <NUMBER>, "inherit", <IDENT>, <STRING>, ")", ":", "-", "=", <PLUS>, <COMMA>, <HASH>, <EMS>, <EXS>, <LENGTH_PX>, <LENGTH_CM>, <LENGTH_MM>, <LENGTH_IN>, <LENGTH_PT>, <LENGTH_PC>, <ANGLE_DEG>, <ANGLE_RAD>, <ANGLE_GRAD>, <TIME_MS>, <TIME_S>, <FREQ_HZ>, <FREQ_KHZ>, <RESOLUTION_DPI>, <RESOLUTION_DPCM>, <PERCENTAGE>, <DIMENSION>, <UNICODE_RANGE>, <URI>, <FUNCTION>, "progid:".)
+2019-02-16 11:54:19,765 - com.gargoylesoftware.htmlunit.DefaultCssErrorHandler -WARN - CSS error: 'https://www.blogger.com/static/v1/widgets/2727757643-css_bundle_v2.css' [1:5102] Error in expression. (Invalid token ".". Was expecting one of: <S>, <NUMBER>, "inherit", <IDENT>, <STRING>, ")", ":", "-", "=", <PLUS>, <COMMA>, <HASH>, <EMS>, <EXS>, <LENGTH_PX>, <LENGTH_CM>, <LENGTH_MM>, <LENGTH_IN>, <LENGTH_PT>, <LENGTH_PC>, <ANGLE_DEG>, <ANGLE_RAD>, <ANGLE_GRAD>, <TIME_MS>, <TIME_S>, <FREQ_HZ>, <FREQ_KHZ>, <RESOLUTION_DPI>, <RESOLUTION_DPCM>, <PERCENTAGE>, <DIMENSION>, <UNICODE_RANGE>, <URI>, <FUNCTION>, "progid:".)
+2019-02-16 11:54:19,778 - com.gargoylesoftware.htmlunit.DefaultCssErrorHandler -WARN - CSS error: 'https://www.blogger.com/static/v1/widgets/2727757643-css_bundle_v2.css' [1:5519] Error in expression. (Invalid token ".". Was expecting one of: <S>, <NUMBER>, "inherit", <IDENT>, <STRING>, ")", ":", "-", "=", <PLUS>, <COMMA>, <HASH>, <EMS>, <EXS>, <LENGTH_PX>, <LENGTH_CM>, <LENGTH_MM>, <LENGTH_IN>, <LENGTH_PT>, <LENGTH_PC>, <ANGLE_DEG>, <ANGLE_RAD>, <ANGLE_GRAD>, <TIME_MS>, <TIME_S>, <FREQ_HZ>, <FREQ_KHZ>, <RESOLUTION_DPI>, <RESOLUTION_DPCM>, <PERCENTAGE>, <DIMENSION>, <UNICODE_RANGE>, <URI>, <FUNCTION>, "progid:".)
+2019-02-16 11:54:19,859 - com.gargoylesoftware.htmlunit.DefaultCssErrorHandler -WARN - CSS error: 'https://www.blogger.com/static/v1/widgets/2727757643-css_bundle_v2.css' [1:9736] Error in declaration. '*' is not allowed as first char of a property.
+2019-02-16 11:54:19,995 - com.gargoylesoftware.htmlunit.DefaultCssErrorHandler -WARN - CSS error: 'https://www.blogger.com/static/v1/widgets/2727757643-css_bundle_v2.css' [1:18797] Error in declaration. (Invalid token "$". Was expecting one of: <S>, ":".)
+2019-02-16 11:54:19,996 - com.gargoylesoftware.htmlunit.DefaultCssErrorHandler -WARN - CSS error: 'https://www.blogger.com/static/v1/widgets/2727757643-css_bundle_v2.css' [1:18813] Error in rule. (Invalid token "{". Was expecting one of: <S>, <IDENT>, "<!--", "-->", ".", ":", "*", "[", <HASH>, <IMPORT_SYM>, <PAGE_SYM>, <MEDIA_SYM>, <FONT_FACE_SYM>, <ATKEYWORD>.)
+2019-02-16 11:54:19,998 - com.gargoylesoftware.htmlunit.DefaultCssErrorHandler -WARN - CSS warning: 'https://www.blogger.com/static/v1/widgets/2727757643-css_bundle_v2.css' [1:18813] Ignoring the whole rule.
+2019-02-16 21:08:37,903 - LAb1 -INFO - lauching browser
+2019-02-16 21:08:48,791 - LAb1 -INFO - navigated to blogspot
+2019-02-16 21:10:23,813 - LabLabv1 -INFO - --Launching chrome browser
+2019-02-16 21:10:32,330 - LabLabv1 -INFO - --Navigaating to facebook
+2019-02-16 21:10:36,742 - LabLabv1 -INFO - send text to edit box
+2019-02-16 21:10:37,517 - LabLabv1 -INFO - Sending pic to screen folder
+2019-02-18 11:39:49,981 - Lab1 -INFO - chrome is launching
+2019-02-18 11:39:58,335 - Lab1 -INFO - navigating to blogspot
+2019-02-18 11:39:59,040 - Lab1 -INFO - moving cursor to specified element
+2019-02-18 11:39:59,300 - Lab1 -INFO - getting no elements present
